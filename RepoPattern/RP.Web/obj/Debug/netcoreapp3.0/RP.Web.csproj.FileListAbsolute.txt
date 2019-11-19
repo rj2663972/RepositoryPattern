@@ -140,3 +140,9 @@ E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\bin\Debug\netcoreapp3.
 E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\bin\Debug\netcoreapp3.0\RP.Data.pdb
 E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\obj\Debug\netcoreapp3.0\RP.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\bin\Debug\netcoreapp3.0\EntityFramework.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Web\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

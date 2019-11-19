@@ -1,0 +1,7 @@
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Data\bin\Debug\netcoreapp3.0\RP.Data.deps.json
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Data\bin\Debug\netcoreapp3.0\RP.Data.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Data\bin\Debug\netcoreapp3.0\RP.Data.pdb
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Data\obj\Debug\netcoreapp3.0\RP.Data.AssemblyInfoInputs.cache
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Data\obj\Debug\netcoreapp3.0\RP.Data.AssemblyInfo.cs
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Data\obj\Debug\netcoreapp3.0\RP.Data.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Data\obj\Debug\netcoreapp3.0\RP.Data.pdb

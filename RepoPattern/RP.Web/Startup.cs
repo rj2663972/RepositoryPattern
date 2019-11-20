@@ -9,7 +9,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using RP.Api;
 using RP.Data.DataContext;
+using RP.Domain.Core.Interfaces;
 
 namespace RP.Web
 {
@@ -26,10 +28,9 @@ namespace RP.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddDbContext<SampleDataContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString(nameof(SampleDataContext))));
 
-            //Api.Configuration.ConfigureServices(services, Configuration);
+            Api.Configuration.ConfigureServices(services, Configuration)
+                .AddMyApplicationServices();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

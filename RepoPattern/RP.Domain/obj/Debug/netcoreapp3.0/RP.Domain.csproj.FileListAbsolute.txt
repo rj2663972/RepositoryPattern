@@ -1,0 +1,11 @@
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\bin\Debug\netcoreapp3.0\RP.Domain.deps.json
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\bin\Debug\netcoreapp3.0\RP.Domain.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\bin\Debug\netcoreapp3.0\RP.Domain.pdb
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\bin\Debug\netcoreapp3.0\RP.Domain.Core.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\bin\Debug\netcoreapp3.0\RP.Domain.Core.pdb
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\obj\Debug\netcoreapp3.0\RP.Domain.csprojAssemblyReference.cache
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\obj\Debug\netcoreapp3.0\RP.Domain.AssemblyInfoInputs.cache
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\obj\Debug\netcoreapp3.0\RP.Domain.AssemblyInfo.cs
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\obj\Debug\netcoreapp3.0\RP.Domain.csproj.CopyComplete
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\obj\Debug\netcoreapp3.0\RP.Domain.dll
+E:\Rahul\GitProjects\RepositoryPattern\RepoPattern\RP.Domain\obj\Debug\netcoreapp3.0\RP.Domain.pdb
